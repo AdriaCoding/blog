@@ -1,0 +1,1 @@
+# soc de barna titu
