@@ -1,0 +1,25 @@
+languageCode = "ca"
+languageName = "Català"
+weight = 1
+title = "El blog de l'Adrià"
+
+[params]
+displayName = "CA"
+isoCode = "ca"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "assets"
+copyright = "Adrià Lisa, 2024. Tots els drets reservats."
+
+[author]
+name = "Adrià Lisa"
+image = "adrimochi.jpg"
+headline = "Matemàtic d'ordinadors."
+bio = "Entusiasta de l'informàtica i la política. Actualment treballo de data engineer/scientist a Zenement, una startup a Sant Pau."
+links = [ 
+    { email = "adrialisa99@gmail.com" },
+    { github = "https://github.com/AdriaCoding" },
+    { linkedin = "linkedin.com/in/adrià-lisa" },
+    { reddit = "https://www.reddit.com/user/Lysergicuss/" },
+    { steam = "https://steamcommunity.com/profiles/76561198347079266/" } 
+]

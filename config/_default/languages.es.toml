@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Adri"
+
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "assets"
+copyright = "Adrià Lisa, 2024. Todos los derechos reservados."
+
+[author]
+name = "Adrià Lisa"
+image = "adrimochi.jpg"
+headline = "Navajero multiusos"
+bio = "Entusiasta de las TI, licenciado en mates. Actualmente trabajo como fontanero de datos en Zenement."
+links = [ 
+    { email = "adrialisa99@gmail.com" },
+    { github = "https://github.com/AdriaCoding" },
+    { linkedin = "linkedin.com/in/adrià-lisa" },
+    { reddit = "https://www.reddit.com/user/Lysergicuss/" },
+    { steam = "https://steamcommunity.com/profiles/76561198347079266/" } 
+]

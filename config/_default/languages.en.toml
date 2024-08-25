@@ -1,6 +1,6 @@
 languageCode = "en"
 languageName = "English"
-weight = 1
+weight = 3
 title = "Blog Adrià"
 
 [params]
@@ -9,8 +9,17 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "assets"
+copyright = "&copy: 2024 Adrià Lisa. All Rights Reserved."
 
 [author]
 name = "Adrià Lisa"
-image = "assets"
+image = "adrimochi.jpg"
 headline = "Avid generalist"
+bio = "I am an IT enthusiast, although my background is in mathematics. I currently work as a data engineer/scientitst at Zenement."
+links = [ 
+    { email = "adrialisa99@gmail.com" },
+    { github = "https://github.com/AdriaCoding" },
+    { linkedin = "linkedin.com/in/adrià-lisa" },
+    { reddit = "https://www.reddit.com/user/Lysergicuss/" },
+    { steam = "https://steamcommunity.com/profiles/76561198347079266/" } 
+]

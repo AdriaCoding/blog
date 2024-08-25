@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Adrià</title>
+    <link>//localhost:50149/en/</link>
+    <description>Recent content on Blog Adrià</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy: 2024 Adrià Lisa. All Rights Reserved.</copyright>
+    <atom:link href="//localhost:50149/en/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
